@@ -70,3 +70,11 @@ gem 'pry'
 gem 'pry-nav'
 gem 'pry-doc'
 
+#To automatical compiling
+gem 'foreman'
+
+
+#To arrange UI
+gem 'jquery-rails'
+gem 'materialize-sass'
+gem 'material_icons'
