@@ -32,4 +32,6 @@ gem 'foreman'
 - routingはvue-router
 
 ## API通信　←ここメイン
+- v:onclick ：イメージを作る　ボタンがおされたときにこのメソッドを呼ぶなど
+- v-model :双方向バインディング
 
