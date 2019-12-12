@@ -69,3 +69,4 @@ gem 'pry-rails'
 gem 'pry'
 gem 'pry-nav'
 gem 'pry-doc'
+
