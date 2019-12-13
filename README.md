@@ -1,4 +1,5 @@
 # todo_app
+- https://github.com/mkhairi/materialize-sassを参考につくりました。　個人的な勉強
 ## todo管理 by rails &amp; vue.js
 - railsとvueの連携の動きの勉強のために作成
 
