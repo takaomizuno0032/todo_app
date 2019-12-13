@@ -6,12 +6,12 @@
 
 <script>
 export default {
-  data: function () {
+  data: function() {
     return {
-      message: "Hello Vue!"
-    }
+      message: "自分との約束は守りましょう"
+    };
   }
-}
+};
 </script>
 
 <style scoped>
