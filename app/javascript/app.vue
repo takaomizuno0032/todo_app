@@ -8,7 +8,7 @@
 export default {
   data: function() {
     return {
-      message: "Hello Takao!"
+      message: "自分との約束は守りましょう"
     };
   }
 };
